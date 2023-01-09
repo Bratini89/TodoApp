@@ -1,3 +1,3 @@
 #Todo App Database
 
-Node js, express, nodemon, equalize, postgreSQL
+Node js, express, nodemon, sequelize, postgreSQL
